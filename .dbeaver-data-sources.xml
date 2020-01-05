@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="h2_server-16eb95aa4d7-3f580a1ddaee3b24" provider="generic" driver="h2_server" name="H2 - banking" save-password="true" read-only="false">
+		<connection host="localhost" port="12345" server="" database="~/banking" url="jdbc:h2:tcp://localhost:12345/~/banking" user="sa" password="AwUVM1ZMVhJl8w==" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
