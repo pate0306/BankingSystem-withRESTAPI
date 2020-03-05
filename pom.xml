@@ -34,7 +34,7 @@
 		<logback.version>1.2.3</logback.version>
 		<javaee.api.version>8.0.0</javaee.api.version>
 		<javaee.security.version>1.0</javaee.security.version>
-		<jackson.version>2.9.9</jackson.version>
+		<jackson.version>2.10.3</jackson.version>
 		<jersey-media-jackson.version>2.29</jersey-media-jackson.version>
 		<eclipse.microprofile.version>[1.0,2)</eclipse.microprofile.version>
 		<eclipselink.version>2.7.3</eclipselink.version>
